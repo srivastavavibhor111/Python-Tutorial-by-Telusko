@@ -3,3 +3,6 @@ Understanding the concepts of Python
 
 Learning Python through following playlist
 YouTube link: https://youtube.com/playlist?list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek&si=oA84_SViWn_hqQQy
+
+Manifestation:
+I will complete this playlist before 25th of October.
